@@ -1,0 +1,92 @@
+Date,Type,Symbol,Shares,Price,Name
+2013-06-28,Buy,WFC,46313.0000,41.2700,Wells Fargo & Company
+2013-06-28,Buy,KO,40000.0000,40.1100,The Coca-Cola Company
+2013-06-28,Buy,AXP,5161.0000,74.7600,American Express Company
+2013-06-28,Buy,USB,7827.0000,36.1500,U.S. Bancorp
+2013-06-28,Buy,IBM,6812.0000,191.1100,International Business Machines Corporation
+2013-06-28,Buy,PG,5279.0000,76.9900,The Procter & Gamble Company
+2013-06-28,Buy,WMT,4924.0000,74.4900,Wal-Mart Stores Inc.
+2013-06-28,Buy,GM,4000.0000,33.3100,General Motors Company
+2013-06-28,Buy,PSX,2716.0000,58.9100,Phillips 66
+2013-06-28,Buy,MCO,2492.0000,60.9300,Moody's Corporation
+2013-06-28,Buy,BK,2464.0000,28.0500,The Bank of New York Mellon Corporation
+2013-06-28,Buy,COP,2412.0000,60.5000,ConocoPhillips
+2013-06-28,Buy,SU,1776.0000,29.4900,Suncor Energy Inc.
+2013-06-28,Buy,DVA,1497.0000,120.8000,DaVita HealthCare Partners Inc.
+2013-06-28,Buy,VRSN,1089.0000,44.6600, Inc."
+2013-06-28,Buy,CBI,955.0000,59.6600,Chicago Bridge & Iron Company N.V.
+2013-06-28,Buy,NOV,888.0000,68.9000, Inc."
+2013-06-28,Buy,LMCA,562.0000,126.7600,Liberty Media Corporation
+2013-06-28,Buy,STRZA,1062.0000,22.1000,Starz
+2013-06-28,Buy,MTB,538.0000,111.7500,M&T Bank Corporation
+2013-06-28,Buy,MEG,464.0000,11.0300, Inc."
+2013-06-28,Buy,COST,433.0000,110.5700,Costco Wholesale Corporation
+2013-06-28,Buy,SNY,906.0000,51.5100,Sanofi
+2013-06-28,Buy,DE,397.0000,81.2500,Deere & Company
+2013-06-28,Buy,GHC,172.0000,371.6500,Graham Holdings Company Common
+2013-06-28,Buy,VRSK,156.0000,59.7000, Inc."
+2013-06-28,Buy,V,155.0000,182.7500,Visa Inc.
+2013-06-28,Buy,GSK,147.0000,49.9700,GlaxoSmithKline plc
+2013-06-28,Buy,GE,58.0000,23.1900,General Electric Company
+2013-06-28,Buy,MDLZ,57.0000,28.5300, Inc."
+2013-06-28,Buy,DISH,54.0000,42.5200,Dish Network Corp.
+2013-06-28,Buy,MA,40.0000,57.4500,MasterCard Incorporated
+2013-06-28,Buy,JNJ,1032.0000,85.8600,Johnson & Johnson
+2013-06-28,Buy,KRFT,19.0000,55.8700, Inc."
+2013-06-28,Buy,LEE,8.0000,2.0400, Incorporated"
+2013-06-28,Buy,UPS,5.0000,86.4800, Inc."
+2013-09-28,Buy,XOM,4008.0000,86.0400,Exxon Mobil Corporation
+2013-09-28,Buy,DVA,1647.0000,56.9000,DaVita HealthCare Partners Inc.
+2013-09-28,Buy,USB,84.0000,36.5800,U.S. Bancorp
+2013-09-28,Buy,SU,24.0000,35.7800,Suncor Energy Inc.
+2013-09-28,Buy,VRSN,6.0000,50.8900, Inc."
+2013-09-28,Sell,COP,1059.0000,69.5100,ConocoPhillips
+2013-09-28,Sell,GSK,113.0000,50.1700,GlaxoSmithKline plc
+2013-09-28,Sell,SNY,15.0000,50.6300,Sanofi
+2013-12-31,Buy,GS,1263.0000,177.2600, Inc."
+2013-12-31,Buy,GE,999.0000,28.0300,General Electric Company
+2013-12-31,Buy,DVA,501.0000,63.3700,DaVita HealthCare Partners Inc.
+2013-12-31,Buy,LBTYA,294.0000,89.0001,Liberty Global plc
+2013-12-31,Buy,GHC,172.0000,663.3200,Graham Holdings Company Common
+2013-12-31,Buy,XOM,104.0000,101.2000,Exxon Mobil Corporation
+2013-12-31,Buy,WFC,32.0000,45.4000,Wells Fargo & Company
+2013-12-31,Buy,WMT,23.0000,78.6900,Wal-Mart Stores Inc.
+2013-12-31,Buy,USB,20.0000,40.4000,U.S. Bancorp
+2013-12-31,Sell,SU,500.0000,35.0500,Suncor Energy Inc.
+2013-12-31,Sell,COP,244.0000,70.6500,ConocoPhillips
+2013-12-31,Sell,GHC,172.0000,474.9500,Graham Holdings Company Common
+2013-12-31,Sell,STRZA,108.0000,29.2400,Starz
+2013-12-31,Sell,DISH,54.0000,57.9200,Dish Network Corp.
+2013-12-31,Sell,GSK,34.0000,53.3900,GlaxoSmithKline plc
+2013-12-31,Sell,LMCA,32.0000,146.2900,Liberty Media Corporation
+2013-12-31,Sell,MCO,25.0000,78.4700,Moody's Corporation
+2014-03-31,Buy,VZ,1102.0000,47.5700,Verizon Communications Inc.
+2014-03-31,Buy,WMT,856.0000,76.4300,Wal-Mart Stores Inc.
+2014-03-31,Buy,LBTYK,734.0000,40.7100,Liberty Global plc
+2014-03-31,Buy,LBTYA,439.0000,41.6000,Liberty Global plc
+2014-03-31,Buy,MA,364.0000,74.7000,MasterCard Incorporated
+2014-03-31,Buy,DVA,115.0000,68.8500,DaVita HealthCare Partners Inc.
+2014-03-31,Buy,VRSN,72.0000,53.9100, Inc."
+2014-03-31,Buy,USB,70.0000,42.8600,U.S. Bancorp
+2014-03-31,Buy,IBM,23.0000,192.4900,International Business Machines Corporation
+2014-03-31,Sell,PSX,1742.0000,77.0600,Phillips 66
+2014-03-31,Sell,GM,1000.0000,34.4200,General Motors Company
+2014-03-31,Sell,STRZA,262.0000,32.2800,Starz
+2014-06-30,Buy,VZ,397.0000,48.9300,Verizon Communications Inc.
+2014-06-30,Buy,SU,345.0000,42.6300,SUNCOR ENERGY INC NEW
+2014-06-30,Buy,GM,296.0000,36.3000,General Motors Company
+2014-06-30,Buy,LBTYA,251.0000,44.2200,Liberty Global plc
+2014-06-30,Buy,CHTR,1230.0000,158.3800, Inc."
+2014-06-30,Buy,DNOW,182.0000,36.2100,NOW Inc.
+2014-06-30,Buy,IBM,181.0000,181.2700,International Business Machines Corporation
+2014-06-30,Buy,VRSN,129.0000,48.8100, Inc."
+2014-06-30,Buy,CBI,115.0000,68.2000,Chicago Bridge & Iron Company N.V.
+2014-06-30,Buy,WMT,74.0000,74.3800,Wal-Mart Stores Inc.
+2014-06-30,Buy,V,24.0000,210.7100,Visa Inc.
+2014-06-30,Buy,USB,6.0000,43.3200,U.S. Bancorp
+2014-06-30,Sell,COP,672.0000,85.7300,ConocoPhillips
+2014-06-30,Sell,PSX,324.0000,80.4300,Phillips 66
+2014-06-30,Sell,STRZA,191.0000,29.7900,Starz
+2014-06-30,Sell,GHC,162.0000,718.1100,Graham Holdings Company Common
+2014-06-30,Sell,NOV,157.0000,82.3500, Inc."
+2014-06-30,Sell,LMCA,130.0000,136.6800,Liberty Media Corporation
